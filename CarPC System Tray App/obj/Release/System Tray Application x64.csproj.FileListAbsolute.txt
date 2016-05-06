@@ -1,0 +1,11 @@
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\CarPCSolutions.SystemTrayApplication.Forms.AboutBoxForm.resources
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\CarPCSolutions.SystemTrayApplication.Forms.ConfigurationPageForm.resources
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\CarPCSolutions.SystemTrayApplication.Properties.Resources.resources
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\System Tray Application x64.csproj.GenerateResource.Cache
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\System Tray Application x64.csprojResolveAssemblyReference.cache
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\bin\Release\CarPC SysTray x64.exe
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\bin\Release\CarPC SysTray x86.exe.config
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\bin\Release\CarPC SysTray x86.exe
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\bin\Release\CarPC SysTray x86.pdb
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\CarPC SysTray x86.exe
+C:\Users\SteveO\Dropbox\CarPC Project\CarPC System Tray Software November 2015\CarPC System Tray App\obj\Release\CarPC SysTray x86.pdb

@@ -1,0 +1,38 @@
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.AboutBoxForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.NewSynchSettingForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPCSolutions.SystemTrayApplication.Properties.Resources.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\System Tray Application.csproj.GenerateResource.Cache
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\CarPC System Tray.exe.config
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\System Tray Application.csprojResolveAssemblyReference.cache
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.ConfigurationPageForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\CarPC System Tray.exe
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\CarPC System Tray.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\CAN Adapter Library.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\FolderSync.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\Logging.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\SteveO.Reg.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\Logging.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\SteveO.Reg.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\CAN Adapter Library.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\bin\Debug\FolderSync.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPC System Tray.exe
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\RNS Message Processor\obj\Debug\CarPC System Tray.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\CarPC System Tray.exe.config
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\CarPC System Tray.exe
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\CarPC System Tray.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\CAN Adapter Library.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\FolderSync.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\Logging.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\SteveO.Reg.dll
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\FolderSync.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\Logging.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\SteveO.Reg.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\bin\Debug\CAN Adapter Library.pdb
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\System Tray Application.csprojResolveAssemblyReference.cache
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.AboutBoxForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.ConfigurationPageForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPCSolutions.SystemTrayApplication.Forms.NewSynchSettingForm.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPCSolutions.SystemTrayApplication.Properties.Resources.resources
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\System Tray Application.csproj.GenerateResource.Cache
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPC System Tray.exe
+C:\Users\sxo4\Dropbox\CarPC Project\Engineering\CarPC Software\CarPC System Tray App\obj\Debug\CarPC System Tray.pdb
